@@ -5,11 +5,15 @@ This is a short little repo containing my own implementations of certain data st
 <ul> 
     <li>Array List</li>
     <li>Linked List</li>
+    <li>Doubly Linked List</li>
     <li>Adjacency List</li>
     <li>Adjacency Matrix</li>
     <li>Binary Tree</li>
     <li>Binary Heap</li>
     <li>Binomial Heap</li>
     <li>R Way Trie</li>
+    <li>Circular Array</li>
+    <li>Circular Linked List</li>
 </ul>
+
 
