@@ -1,0 +1,7 @@
+C:\Users\Corby\Documents\3020\Ropes\Ropes\obj\Debug\Ropes.csprojAssemblyReference.cache
+C:\Users\Corby\Documents\3020\Ropes\Ropes\obj\Debug\Ropes.csproj.CoreCompileInputs.cache
+C:\Users\Corby\Documents\3020\Ropes\Ropes\bin\Debug\Ropes.exe.config
+C:\Users\Corby\Documents\3020\Ropes\Ropes\bin\Debug\Ropes.exe
+C:\Users\Corby\Documents\3020\Ropes\Ropes\bin\Debug\Ropes.pdb
+C:\Users\Corby\Documents\3020\Ropes\Ropes\obj\Debug\Ropes.exe
+C:\Users\Corby\Documents\3020\Ropes\Ropes\obj\Debug\Ropes.pdb

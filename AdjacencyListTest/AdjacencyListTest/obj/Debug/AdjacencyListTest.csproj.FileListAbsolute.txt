@@ -1,0 +1,7 @@
+C:\Users\Corby\Documents\3020\AdjacencyListTest\AdjacencyListTest\obj\Debug\AdjacencyListTest.csprojAssemblyReference.cache
+C:\Users\Corby\Documents\3020\AdjacencyListTest\AdjacencyListTest\obj\Debug\AdjacencyListTest.csproj.CoreCompileInputs.cache
+C:\Users\Corby\Documents\3020\AdjacencyListTest\AdjacencyListTest\bin\Debug\AdjacencyListTest.exe.config
+C:\Users\Corby\Documents\3020\AdjacencyListTest\AdjacencyListTest\bin\Debug\AdjacencyListTest.exe
+C:\Users\Corby\Documents\3020\AdjacencyListTest\AdjacencyListTest\bin\Debug\AdjacencyListTest.pdb
+C:\Users\Corby\Documents\3020\AdjacencyListTest\AdjacencyListTest\obj\Debug\AdjacencyListTest.exe
+C:\Users\Corby\Documents\3020\AdjacencyListTest\AdjacencyListTest\obj\Debug\AdjacencyListTest.pdb
